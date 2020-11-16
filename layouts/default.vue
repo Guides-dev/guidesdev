@@ -3,7 +3,11 @@
     <div class="bg-gray-800 pb-32">
       <header class="py-10">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+
+        <NuxtLink :to="{ name: 'index' }">
           <h1 class="text-3xl leading-9 font-bold text-white">Guides.Dev</h1>
+        </NuxtLink>
         </div>
       </header>
     </div>
