@@ -20,6 +20,7 @@ h1 {
   font-weight: bold;
   font-size: 28px;
 }
+
 .nuxt-content h2 {
   font-weight: bold;
   font-size: 22px;
@@ -30,5 +31,10 @@ h1 {
 }
 .nuxt-content p {
   margin-bottom: 20px;
+}
+
+.nuxt-content a {
+  color: blue;
+  font-weight: bold;;
 }
 </style>
